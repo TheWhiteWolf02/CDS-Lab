@@ -1,0 +1,6 @@
+[
+	["echo", "/bin/cat"],
+	["mopp-2018-t3-himeno", "/himeno"],
+	["mopp-2018-t3-himeno-float64", "/himeno"],
+	["mopp-2019-t2-brute-force-password-cracking", "/password_bf"]
+]

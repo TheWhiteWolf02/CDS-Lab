@@ -1,0 +1,9 @@
+# ignored file formats #
+
+*.pdf
+test.*
+judge.*
+{stdout
+.vscode
+*.in
+.DS_Store
